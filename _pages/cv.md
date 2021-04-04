@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-url:"https://github.com/akshaysravindran/akshaysravindran.github.io/blob/master/files/Akshay_CV.pdf"
+url:"https://github.com/akshaysravindran/akshaysravindran.github.io/files/Akshay_CV.pdf"
 permalink: /cv/
 author_profile: true
 redirect_from:
