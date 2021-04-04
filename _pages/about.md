@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-Who am I?
 ======
 I am a doctoral candidate at the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of Dr. Jose Contreras Vidal, I work in the non-invasive brain machine interface systems lab as part of the BRAIN center (NSF IUCRC). Broadly my research involves developing different engineering tools for extracting patterns from electrophysiological data. My main expertise lies in developing deep learning models to study the EEG, with emphasis on explinability of such models. I have a diverse portfolio of projects including developing a) brain computer interface systems for predicting balance perturbation, prediction of lower limb kinematics, and decoding hand motor imagery; b) multiple project that explore the feasibility of studying the brain in real-world settings (using museums and public venues as a laboratory); c) effects of meditation on EEG; d) developing synergies between arts and science as a means to develop outreach activities in STEM while promoting interdisciplinary research opportunities. 
 
