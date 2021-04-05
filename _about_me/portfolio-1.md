@@ -11,14 +11,11 @@ c) Changes in EEG associated meditation
 d) Developing synergistic activities between arts and science to promote interdisciplinary research opportunities while also serving as outreach activities in STEM.
 Before joining the University of Houston for my doctoral studies, I worked at Health Technology Innovation Center at the IIT Madras, India as a Research Intern for a year. During that time I worked on developing wearable vital signal monitoring devices. I earned my Bachelor’s Degree in Electrical and Electronics Engineering from the University of Kerala, India in 2015
 
-<br/><img src='/images/2_1.png'>
+
 
 <br/>
 
-
-Outside of research,  I value teaching and mentoring significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for lifelong learning and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, yoga, go for walks, play and watch soccer and most importantly am a huge foodie! I love to engage in conversations and activities related to spirituality, developing a growth mindset, and overcoming failures/challenges.
-
-<br/><img src='/images/ASR1.jpg'>"
+Outside of research,  I value teaching and mentoring significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for lifelong learning and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, yoga, go for walks, play and watch soccer and most importantly am a huge foodie! I love to engage in conversations and activities related to spirituality, developing a growth mindset, and overcoming failures/challenges."
 
 
 collection: about_me
