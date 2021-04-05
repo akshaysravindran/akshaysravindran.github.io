@@ -17,7 +17,7 @@ Before joining the University of Houston for my doctoral studies, I worked at He
 Outside of research,  I value teaching and mentoring significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for lifelong learning and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, yoga, go for walks, play and watch soccer and most importantly am a huge foodie! I love to engage in conversations and activities related to spirituality, developing a growth mindset, and overcoming failures/challenges."
 
 
-collection: about_me
+collection: portfolio
 ---
 
 
