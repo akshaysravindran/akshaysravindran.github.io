@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Biosketch
-I am a doctoral candidate in the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of Dr. Jose Contreras Vidal, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with an emphasis on explainability of such models. I also strongly believe that many questions are best answered by classical signal processing and machine learning approaches and one should be open to the values in both.
+I am a doctoral candidate in the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of <span style="color:DarkOrange">Dr. Jose Contreras Vidal</span>, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with an emphasis on <span style="color:DarkOrange">explainability<\span> of such models. I also strongly believe that many questions are best answered by classical signal processing and machine learning approaches and one should be open to the values in both.
 
 <br/><img src='/images/BOA5.jpg'>
 <br/>
