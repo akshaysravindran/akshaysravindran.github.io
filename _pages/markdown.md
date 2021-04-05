@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /About/
 title: "Akshay Sujatha Ravindran"
 author_profile: true
 redirect_from: 
