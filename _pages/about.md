@@ -10,12 +10,12 @@ redirect_from:
 
 
 ## Biosketch
-I am a doctoral candidate at the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of Dr. Jose Contreras Vidal, I work in the Non-Invasive Brain-Machine Interface Systems Lab as part of the BRAIN Center (NSF IUCRC). I am fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with emphasis on explainability of such models. I also strongly believe that many questions are best answered by classical signal processing and machine learning approaches and one should be open to the values in both.
+I am a doctoral candidate in the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of Dr. Jose Contreras Vidal, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with an emphasis on explainability of such models. I also strongly believe that many questions are best answered by classical signal processing and machine learning approaches and one should be open to the values in both.
 
 <br/><img src='/images/BOA5.jpg'>
 <br/>
-I have a experience working in a diverse portfolio of projects covering areas such as:<br/>
-a) Brain-computer interface systems using EEG: i) predicting balance perturbation, ii) decoding lower limb kinematics, and iii) decoding hand motor imagery from EEG.<br/>
+In the UHBMI lab, I was fortunate to have the experience of working in a diverse portfolio of projects covering areas such as:<br/>
+a) Brain-computer interface systems using EEG: i) predicting balance perturbation, ii) decoding lower limb kinematics, and iii) decoding hand motor imagery.<br/>
 b) Exploring the feasibility of studying the brain in real-world settings (using museums and public venues as a laboratory).<br/>
 c) Changes in EEG associated meditation practice.<br/>
 d) Developing synergistic activities/projects between arts and science to promote interdisciplinary research opportunities while also serving as outreach activities in STEM.<br/>
@@ -33,7 +33,7 @@ Before joining the University of Houston for my doctoral studies, I worked at He
 
 ## What are my values and hobbies
 
-Outside of research,  I value teaching and mentoring significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for lifelong learning and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, play and watch soccer (huge arsenal fan since 2006), do yoga, go for walks/biking and most importantly I am a huge foodie! I love to engage in conversations and activities related to spirituality, interoception for health, developing a growth mindset, and overcoming failures/challenges. I am an agnostic person with a bias towards athiestic thought process but as with my general perspective on topics, I am open to be convinced otherwise. 
+Outside of research,  I value teaching and mentoring significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for lifelong learning and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, play and watch soccer (huge arsenal fan since 2006), do yoga, go for casual walks/biking and most importantly I am a huge foodie! I love to engage in conversations and activities related to spirituality, interoception for health and wellbeing, developing a growth mindset, and overcoming failures/challenges. I am an agnostic person with a slight bias towards athiestic line of thoughts but as with my general perspective on topics, I am open to be convinced otherwise. 
 
 
 <br/><img src='/images/ASR1.jpg'>
