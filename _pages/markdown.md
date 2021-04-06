@@ -7,22 +7,23 @@ redirect_from:
   - /markdown.html
 ---
 
+{% slider %}
 
-<div id="slider">
-  <img src="1.jpg" alt="Team outing">
-  <img src="2.png" alt="Outreach: Stomp Out Stroke Event">
-  <img src="3.png" alt="Brain on Acting Event/Research">
-  <img src="4.png" alt="Outreach: National Geography Exquisite Corpse Coverage">
-  <img src="5.png" alt="Team pic">
-  <img src="6.jpg" alt="Outreach: Lab Tour">
-  <img src="7.jpg" alt="Outreach: Exquisite Corpse @ Children's museum">
-  <img src="8.jpeg" alt="Outreach: Tech Expo">
-  <img src="9.png" alt="Lab BCI Art Sculpture by Eric Todd">
-  <img src="10.png" alt="Outreach: Brain on wine tasting">
-  <img src="11.jpg" alt="Lab outing">
-  <img src="12.jpg" alt="Brain on Music Workshop">
-  <img src="13.jpg" alt="Nahual Project">
-</div>
+![Team outing](1.jpg)
+![Outreach: Stomp Out Stroke Event](2.png)
+![Brain on Acting Event/Research](3.png)
+![Outreach: National Geography Exquisite Corpse Coverage](4.png)
+![Team pic](5.png)
+![Outreach: Lab Tour](6.jpg)
+![Outreach: Exquisite Corpse @ Children's Museum](7.jpg)
+![Outreach: Tech Expo](8.jpeg)
+![Lab BCI Art Sculpture by Eric Todd](9.png)
+![Outreach: Brain on wine tasting](10.png)
+![Lab outing](11.png)
+![Brain on Music Workshop](12.jpg)
+![Nahual Project](13.jpg)  
+  
+{% endslider %}
 
 
 
