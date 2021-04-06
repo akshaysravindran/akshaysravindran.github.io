@@ -7,23 +7,64 @@ redirect_from:
   - /markdown.html
 ---
 
-{% slider %}
+<script src="/neurohumanities/javascript/carousel.js"></script>
 
-![Team outing](1.jpg)
-![Outreach: Stomp Out Stroke Event](2.png)
-![Brain on Acting Event/Research](3.png)
-![Outreach: National Geography Exquisite Corpse Coverage](4.png)
-![Team pic](5.png)
-![Outreach: Lab Tour](6.jpg)
-![Outreach: Exquisite Corpse @ Children's Museum](7.jpg)
-![Outreach: Tech Expo](8.jpeg)
-![Lab BCI Art Sculpture by Eric Todd](9.png)
-![Outreach: Brain on wine tasting](10.png)
-![Lab outing](11.png)
-![Brain on Music Workshop](12.jpg)
-![Nahual Project](13.jpg)  
+
+<div class="slideshow-container">
+
+<div class="mySlides fade carousel-image">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/1.jpg" style="width:100%">
+  <div class="carousel-text">
+ Team outing
+  <br>  
+  </div>
+</div>
+
+
+<div class="mySlides fade carousel-image">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/2.png" style="width:100%">
+  <div class="carousel-text">
+Outreach: Stomp Out Stroke Event
+  <br>  
+  </div>
+</div>
+
+ <div class="mySlides fade carousel-image">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/3.png" style="width:100%">
+  <div class="carousel-text">
+Brain on Acting Event/Research
+  <br>  
+  </div>
+</div>
   
-{% endslider %}
+<div class="mySlides fade carousel-image">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/4.png" style="width:100%">
+  <div class="carousel-text">
+  Outreach: National Geography Exquisite Corpse Coverage
+  <br>  
+  </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+</div>
+
+
+
+
 
 
 
