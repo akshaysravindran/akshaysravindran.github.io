@@ -7,11 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
-<script src="/neurohumanities/javascript/carousel.js"></script>
+<script src="/javascript/carousel.js"></script>
 
 
 <div class="slideshow-container">
-
 <div class="mySlides fade carousel-image">
   <div class="numbertext">1 / 4</div>
   <img src="/images/1.jpg" style="width:100%">
