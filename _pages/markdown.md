@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 <script src="/javascript/carousel.js"></script>
-
-
 <div class="slideshow-container">
 <div class="mySlides fade carousel-image">
   <div class="numbertext">1 / 4</div>
@@ -19,8 +17,6 @@ redirect_from:
   <br>  
   </div>
 </div>
-
-
 <div class="mySlides fade carousel-image">
   <div class="numbertext">2 / 4</div>
   <img src="/images/2.png" style="width:100%">
@@ -55,12 +51,11 @@ Brain on Acting Event/Research
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
+<span class="dot" onclick="currentSlide(1)"></span>
+<span class="dot" onclick="currentSlide(2)"></span>
+<span class="dot" onclick="currentSlide(3)"></span>
+<span class="dot" onclick="currentSlide(4)"></span>
 </div>
-
 
 
 
