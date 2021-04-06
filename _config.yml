@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+# Ideal image slider
+iis_slider_array: []
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
