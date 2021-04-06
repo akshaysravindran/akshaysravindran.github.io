@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Biosketch
-I am a doctoral candidate in the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of <span style="color:green">Dr. Jose Contreras Vidal</span>, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with an emphasis on <span style="color:purple">explainability</span> of such models. Even though most of my research currently uses deep learning models, I strongly believe that many questions are best answered by <span style="color:red">classical signal processing and machine learning approaches</span> and one should be open to the values in both.
+I am a doctoral candidate in the Department of Electrical and Computer Engineering at the University of Houston. Under the supervision of <span style="color:DarkRed ">Dr. Jose Contreras Vidal</span>, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing deep learning models to study the EEG, with an emphasis on <span style="color:IndianRed">explainability</span> of such models. Even though most of my research currently uses deep learning models, I strongly believe that many questions are best answered by <span style="color:DeepPink ">classical signal processing and machine learning approaches</span> and one should be open to the values in both.
 
 <br/><img src='/images/BOA5.jpg'>
 <br/>
@@ -22,7 +22,7 @@ d) Developing synergistic activities/projects between arts and science to promot
 e) Point process characterization of heartbeat dynamics measured using Photoplethysmography <br/>
 
 <br/> 
-Before joining the University of Houston for my doctoral studies, I worked at Health Technology Innovation Center at the IIT Madras, India as a Research Intern for a year. During that time I worked on developing wearable vital signal monitoring devices. I earned my Bachelor’s Degree in Electrical and Electronics Engineering from the TKM College of Engineering, University of Kerala, India in 2015.
+Before joining the University of Houston for my doctoral studies, I worked at Health Technology Innovation Center at the <span style="color:LightCoral ">IIT Madras</span>, India as a Research Intern for a year. During that time I worked on developing wearable vital signal monitoring devices. I earned my Bachelor’s Degree in Electrical and Electronics Engineering from the TKM College of Engineering, University of Kerala, India in 2015.
 
 
 
