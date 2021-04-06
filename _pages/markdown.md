@@ -35,7 +35,7 @@ Before joining the University of Houston for my doctoral studies, I worked at He
 
 <br/>
 
-<\p>
+</p>
 ## What are my values and hobbies
 
 Outside of research,  I value teaching and <span style="color:IndianRed ">mentoring</span>  significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for <span style="color:IndianRed ">lifelong learning</span> and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, play and watch soccer (huge arsenal fan since 2006), do yoga, go for casual walks/biking and most importantly I am a huge foodie! I love to engage in conversations and activities related to spirituality, interoception for health and wellbeing, developing a <span style="color:IndianRed ">growth mindset</span>, and overcoming failures/challenges. I am an agnostic person with a slight bias towards athiestic line of thoughts but as with my general perspective on topics, I am open to be convinced otherwise. 
