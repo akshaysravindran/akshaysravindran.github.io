@@ -6,9 +6,11 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<!-- font: verdana -->
+
 
 ## Biosketch
+<p style="font-family: verdana; font-size:11pt; font-style:normal">
+  
 I am a doctoral candidate in the Department of Electrical and Computer Engineering at the <span style="color:IndianRed ">University of Houston</span>. Under the supervision of <span style="color:IndianRed  ">Dr. Jose Contreras Vidal</span>, I work in the Non-Invasive Brain-Machine Interface Systems Lab (BRAIN Center). I am a science enthusiast fascinated by how our human body manages the sophisticated behavior and capabilities so effortlessly. My research focuses on developing different engineering tools for analyzing non-invasive electrophysiological data. My expertise lies in developing  <span style="color:IndianRed  ">deep learning</span>  models to study the EEG, with an emphasis on <span style="color:IndianRed">explainability</span> of such models. Even though most of my research currently uses deep learning models, I strongly believe that many questions are best answered by <span style="color:IndianRed  ">classical signal processing</span> and  <span style="color:IndianRed  ">machine learning approaches</span> and one should be open to the values in both.
 
  
@@ -33,6 +35,7 @@ Before joining the University of Houston for my doctoral studies, I worked at He
 
 <br/>
 
+<\p>
 ## What are my values and hobbies
 
 Outside of research,  I value teaching and <span style="color:IndianRed ">mentoring</span>  significantly and I find satisfaction the most when I get to help someone advance their career and dreams. I feel very blessed and happy to be in a profession that provides incentives for <span style="color:IndianRed ">lifelong learning</span> and offers great flexibility to pursue things that spark your curiosity and interest. Outside of work, I love to travel, spend quality time in nature, meditate, play and watch soccer (huge arsenal fan since 2006), do yoga, go for casual walks/biking and most importantly I am a huge foodie! I love to engage in conversations and activities related to spirituality, interoception for health and wellbeing, developing a <span style="color:IndianRed ">growth mindset</span>, and overcoming failures/challenges. I am an agnostic person with a slight bias towards athiestic line of thoughts but as with my general perspective on topics, I am open to be convinced otherwise. 
