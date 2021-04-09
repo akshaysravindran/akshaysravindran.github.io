@@ -15,7 +15,7 @@ An prototype acquisition system  was made on perfboard which had a 3 channel Pho
 Guided a team of 4 interns from NIT Trichy on making a prototype of a device capable of detecting muscle fatigue from Electromyography (EMG) signals obtained from the muscle of interest. Testing a custom circuit board developed to collect EMG on 5 individuals and observed that there exists a reduction in the median frequency with time when one engages in intense exercise. <br>
 
 * **Decoding hand movements from muscle activity using neural networks<br><br>
-Guided an intern on implementing gesture recognition from the acquired Electromyography (EMG) signals using Muscle sensor V3, corresponding to seven different movements. An Artificial Neural Network Model was implemented in Matlab to serve as the classifier. The Network was trained using 75 % of the total data set and 25 % was used for testing. A total of 96 % accuracy was observed during the testing.<br>
+Guided an intern on implementing gesture recognition from the acquired Electromyography (EMG) signals using Muscle sensor V3, corresponding to seven different movements. An Artificial Neural Network Model was implemented in Matlab to serve as the classifier. A test error rate of 4 percent was obtained.<br>
 
 
 * **Measurement of Urine Output using Strain Gauge
