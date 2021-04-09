@@ -1,6 +1,6 @@
 ---
 title: "Point Process Characterization of HR dynamics"
-excerpt: "Emotion Recognition by Point Process Characterization of Heartbeat Dynamics<br/><img src='/images/point_process.png'>"
+excerpt: "Emotion Recognition by Point Process Characterization of Heartbeat Dynamics<br/><img src='/images/point_process.png' width='500'/>"
 collection: portfolio
 ---
 
@@ -22,7 +22,7 @@ the use of instantaneous estimation of HRV features to be used
 in combination with models that use other types of physiological
 signals for instantaneous emotion recognition.
 
-<br/><img src='/images/point_process.png'>"
+<br/><img src='/images/point_process.png' width='500'/>"
 
 # Outputs:
 **Ravindran AS**, Nakagome S, Wickramasuriya DS, Contreras‐Vidal JL, and Faghih RT. Emotion recognition
