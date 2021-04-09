@@ -1,6 +1,6 @@
 ---
 title: "Minecraft: Museum as a laboratory"
-excerpt: "Assaying neural activity of children during video game play in public spaces: a deep learning approach to uncover neural patterns in exploratory studies <br/><img src='/images/minecraft.png' width='500'/>"
+excerpt: "Assaying neural activity of children during video game play in public spaces: a deep learning approach to uncover neural patterns in exploratory studies <br/><img src='/images/minecraft.PNG' width='500'/>"
 collection: portfolio
 ---
 
@@ -32,7 +32,7 @@ in your data and explored the issues and the potential
 of conducting experiments involving children in a natural
 and engaging environment.
 
-<br/><img src='/images/minecraft.png' width='500'/>"
+<br/><img src='/images/minecraft.PNG' width='500'/>"
 
 # Outputs:
 **Ravindran AS**, Mobiny A, Cruz‐Garza JG, Paek A, Kopteva A, and Vidal JLC. Assaying neural activity of
