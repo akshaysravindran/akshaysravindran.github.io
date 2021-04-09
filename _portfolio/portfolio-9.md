@@ -1,6 +1,6 @@
 ---
 title: "VitalSens"
-excerpt: "Wearable devices for physiological vital signal measurement <br/><img src='/images/vital sense.PNG' width='500'/>"
+excerpt: "Wearable devices for physiological vital signal measurement  <br/><br/><img src='/images/vital sense.PNG' width='500'/>"
 collection: portfolio
 ---
 
