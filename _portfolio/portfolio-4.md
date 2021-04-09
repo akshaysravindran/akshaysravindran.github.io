@@ -1,6 +1,6 @@
 ---
 title: "EEG based Gait Decoding"
-excerpt: "An empirical comparison of neural networks and machine learning algorithms for EEG gait decoding <br/><img src='/images/avatar.png' width='500'/>"
+excerpt: "An empirical comparison of neural networks and machine learning algorithms for EEG gait decoding  <br/><br/><img src='/images/avatar.png' width='500'/>"
 collection: portfolio
 ---
 
