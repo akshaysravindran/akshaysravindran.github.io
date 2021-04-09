@@ -4,7 +4,7 @@ excerpt: "Emotion Recognition by Point Process Characterization of Heartbeat Dyn
 collection: portfolio
 ---
 
-#Summary
+# Summary
 Recognizing human emotion from heartbeat information
 alone is a challenging but ongoing research area. Here,
 we utilize a Point Process model based on History Dependent Inverse Gaussian (HDIG), optimized using maximum likelihood estimation and Bayesian information criterion 
@@ -24,4 +24,8 @@ signals for instantaneous emotion recognition.
 
 <br/><img src='/images/point_process.png'>"
 
+# Outputs:
+**Ravindran AS**, Nakagome S, Wickramasuriya DS, Contreras‐Vidal JL, and Faghih RT. Emotion recognition
+by point process characterization of heartbeat dynamics. IEEE Healthcare Innovations and Point of Care
+Technologies 2019:13–6. DOI: 10.1109/HI‐POCT45284.2019.8962886
 
