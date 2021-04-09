@@ -1,6 +1,6 @@
 ---
 title: "Point Process Characterization of HR dynamics"
-excerpt: "Emotion Recognition by Point Process Characterization of Heartbeat Dynamics<br/><img src='/images/500x300.png'>"
+excerpt: "Emotion Recognition by Point Process Characterization of Heartbeat Dynamics<br/><img src='/images/point_process.png'>"
 collection: portfolio
 ---
 
