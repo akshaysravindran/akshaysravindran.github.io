@@ -24,5 +24,5 @@ Guided an intern on implementing gesture recognition from the acquired Electromy
 
 
 # Outputs: 
-Preejith S, Ravindran AS, Hajare R, Joseph J, and Sivaprakasam M. A wrist worn SpO2 monitor with custom finger probe for motion artifact removal. 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2016:5777–80. DOI: 10.1109/EMBC.2016.7592040.
+Preejith S, **Ravindran AS**, Hajare R, Joseph J, and Sivaprakasam M. A wrist worn SpO2 monitor with custom finger probe for motion artifact removal. 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2016:5777–80. DOI: 10.1109/EMBC.2016.7592040.
 
