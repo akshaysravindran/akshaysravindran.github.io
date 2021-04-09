@@ -6,7 +6,7 @@ collection: portfolio
 
 * **Estimating blood oxygen saturation using custom wearable device <br>
   A wrist worn device with a custom finger probe assembly which can continuously measure SpO2 by eliminating motion artifacts using accelerometer data was developed. The accuracy of the device in measuring SpO2 values in the range 80-100 was validated using a Fluke ProSim 8 SpO2 simulator. The efficiency in eliminating motion corrupted signals was also validated in a controlled setting on 40 healthy volunteers.
-  <br/><img src='/images/vital sense1.png'>"
+  <br/><img src='/images/vital sense1.png'>
   
 * **Cuffless blood pressure measurement using pulse transit time (PTT)<br>
 An prototype acquisition system  was made on perfboard which had a 3 channel Photoplethysmogram (PPG) and a single channel Electrocardiogram (ECG) which was put inside an insulated enclosure. A separate PCB was designed and manufactured which had provisions for acquiring 4 channels of PPG, 1 channel ECG and 1 channel accelerometer. The signals were interfaced with Labview and a VI was created to change the intensity and view the signals in real time. A separate VI was created which would load the saved data, does a zero phase low pass filtering, segmenting each cycle and identifies the a)valley point of PPG b)maximum of first derivative point on PPG c)intersection tangent point on PPG ,computes the Pulse Arrival Time (PAT) and PTT by comparing with the ECG and PPG signals and stores all these to a file. Analysis was also performed in matlab where in a script was made that would calculate the PAT and PTT from the acquired signals.<br>
