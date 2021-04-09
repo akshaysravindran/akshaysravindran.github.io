@@ -4,6 +4,8 @@ excerpt: "Wearable devices for physiological vital signal measurement <br/><img 
 collection: portfolio
 ---
 
+These were some of the main projects I worked on during my one year research internship at Indian Institute of Technology, Madras under the Health Technology Innovation Center. My introduction to formal research started from the center. The center was directed by Dr. Mohansankar and I worked under the supervision of by Mr. Preejith S.P (Lead System Designer). <br>
+
 # Projects
 * **Estimating blood oxygen saturation using custom wearable device** <br>
   A wrist worn device with a custom finger probe assembly which can continuously measure SpO2 by eliminating motion artifacts using accelerometer data was developed. The accuracy of the device in measuring SpO2 values in the range 80-100 was validated using a Fluke ProSim 8 SpO2 simulator. The efficiency in eliminating motion corrupted signals was also validated in a controlled setting on 40 healthy volunteers.
