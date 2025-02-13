@@ -11,7 +11,7 @@ redirect_from:
 ## Biosketch
 <p style="font-family: Garamond; font-size:14pt; font-style:normal">
   
-I am a <span style="color:IndianRed ">Data Scientist II at Alto Neuroscience</span>. Here at Alto, I use machine learning and signal processing tools to to predict clinical response and identify patients who are most likely to benefit from our drug candidates using their brain activity meassured using electroencephalography (EEG). <br/>
+I am a <span style="color:IndianRed ">Data Scientist II at Alto Neuroscience</span>. Here at Alto, I use my expertise on biomedical signal processing and machine learning to help individuals suffering from different mental health disorders by helping them find the right treatment. Specifically, I use machine learning and signal processing tools to predict clinical response and identify patients who are most likely to benefit from our drug candidates using their brain activity measured using electroencephalography (EEG). I use different data analysis tools to identify pharmacodynamic profile of drug candidate as well as neurophysiological signature of psychiatric diseases. <br/>
 
 I obtained my doctoral degree from the Department of Electrical and Computer Engineering at the University of Houston in 2021. Under the supervision of Dr. Jose Contreras Vidal, I worked in the Non-Invasive Brain-Machine Interface Systems Lab as part of the BRAIN Center (NSF IUCRC). My thesis was on <span style="color:IndianRed  ">Developing Explainable Deep Learning Models Using EEG for Brain Machine Interface Systems</span> .
 
